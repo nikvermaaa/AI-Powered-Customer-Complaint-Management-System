@@ -1,0 +1,18 @@
+# Web Framework & Server
+fastapi
+uvicorn
+python-multipart
+
+# AI & Orchestration
+langgraph
+langchain-groq
+pydantic
+
+# Document Parsing
+pdfplumber
+python-docx
+
+# Database Layer
+SQLAlchemy
+pymysql
+python-dotenv
